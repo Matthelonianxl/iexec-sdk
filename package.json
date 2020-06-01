@@ -42,7 +42,7 @@
     "ora": "4.0.3",
     "prettyjson": "1.2.1",
     "query-string": "6.9.0",
-    "regenerator-runtime": "0.13.3",
+    "regenerator-runtime": "0.13.5",
     "semver": "7.1.1",
     "update-check-es5": "1.5.4",
     "uuid": "3.3.3",
