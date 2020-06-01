@@ -35,7 +35,7 @@
     "iexec-contracts-js-client": "^v4.0.0-alpha.8",
     "iexec-schema-validator": "^v4.0.0-alpha.1",
     "image-size": "0.8.3",
-    "inquirer": "7.0.3",
+    "inquirer": "7.1.0",
     "is-docker": "2.0.0",
     "jszip": "3.2.2",
     "multiaddr": "7.2.1",
