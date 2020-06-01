@@ -41,7 +41,7 @@
     "multiaddr": "7.2.1",
     "ora": "4.0.3",
     "prettyjson": "1.2.1",
-    "query-string": "6.9.0",
+    "query-string": "6.12.1",
     "regenerator-runtime": "0.13.3",
     "semver": "7.1.1",
     "update-check-es5": "1.5.4",
